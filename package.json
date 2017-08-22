@@ -1,6 +1,6 @@
 {
   "name": "motzee-fetch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node module expositing a fetch function",
   "main": "index.js",
   "scripts": {
